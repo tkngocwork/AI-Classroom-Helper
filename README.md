@@ -14,7 +14,7 @@ This project demonstrates three core concepts from the Kaggle AI Agents course:
 3. **Security (Human-in-the-Loop):** Implements a mandatory execution halt. The agent generates the lesson but requires explicit human teacher approval before exporting, ensuring student safety.
 
 ## 🚀 Setup Instructions
-1. Clone this repository: `git clone https://github.com/yourusername/eduspark-agent.git`
+1. Clone this repository: `git clone https://github.com/tkngocwork/AI-Classroom-Helper`
 2. Navigate to the folder: `cd eduspark-agent`
 3. Run the agent simulation: `python src_agent_core.py`
 *(Note: No API keys are required to run this local simulation as per security best practices).*
